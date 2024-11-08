@@ -1,24 +1,24 @@
-.dashboard-container {
+.container {
     width: 400px;
     margin: auto;
     text-align: center;
 }
 
-.dashboard-heading {
+.h{
     color: green;
     background-color: yellow;
     padding: 10px;
 }
 
-.welcome-message {
+.mes{
     color: green;
 }
 
-.user-panel {
+.panel {
     margin: 20px 0;
 }
 
-.user-panel button {
+.panel button {
     padding: 10px;
     background-color: #28a745;
     color: white;
@@ -27,11 +27,11 @@
     cursor: pointer;
 }
 
-.user-panel button:hover{
+.panel button:hover{
     background-color: red;
 }
 
-.user-panel select {
+.panel select {
     padding: 5px;
     margin-left: 10px;
 }
